@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="4dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="60dp"
+            android:padding="4dp"
+            android:id="@+id/image"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_person_icon"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/dmsans_mid"
+                android:textColor="#1D2D3A"
+                android:text="Reviewer Username" />
+
+            <TextView
+                android:id="@+id/dayago"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/dmsans_mid"
+                android:layout_marginTop="3dp"
+                android:textColor="#1D2D3A"
+                android:text="1 day ago" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="0"
+            android:padding="8dp"
+
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                app:srcCompat="@drawable/ic_yellow_star" />
+
+            <TextView
+                android:id="@+id/rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="#1D2D3A"
+                android:padding="3dp"
+                android:text="4.8" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/comment"
+        android:layout_width="match_parent"
+        android:padding="12dp"
+        android:textColor="#A9AEB2"
+        android:layout_height="wrap_content"
+        android:text="@string/description" />
+
+</LinearLayout>

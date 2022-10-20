@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/win11/.gradle/caches/transforms-3/425c53d80d5ab86bf76dd6caef178718/transformed/jetified-swipe-button-0.4.0/res/drawable/shape_button.xml" value="0.1605" />
+        <entry key="..\:/Users/win11/.gradle/caches/transforms-3/425c53d80d5ab86bf76dd6caef178718/transformed/jetified-swipe-button-0.4.0/res/drawable/shape_rounded.xml" value="0.179" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/border_for_big_box.xml" value="0.109" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/bottomnav_layout.xml" value="0.189" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/button_curve.xml" value="0.189" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/checkoutmorecourses.xml" value="0.179" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/course_button.xml" value="0.2385" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1605" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.189" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/ic_notification_icon.xml" value="0.189" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/ic_splashscreen.xml" value="0.1" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/ic_yellow_star.xml" value="0.1" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/maindashboard_top_layout.xml" value="0.1375" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/product_round_top.xml" value="0.179" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/round_for_gray_course.xml" value="0.179" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/round_for_green_course.xml" value="0.179" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/round_strock_blue.xml" value="0.179" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/rounded_background.xml" value="0.189" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/rounded_border_less.xml" value="0.189" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/search_background.xml" value="0.189" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/drawable/splash_screen.xml" value="0.1065" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/font/varfont.xml" value="0.25462962962962965" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout-v23/activity_user_faq.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_checkout_course.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_course_detials.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_faq.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_help_center.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_history.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_main_dashedboard.xml" value="0.2" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_my_account.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_my_account_edit.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_notification.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_particular_course_data.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_payment_detials.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_payment_error.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_payment_successfull.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_search.xml" value="0.4" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_security.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_signup.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_splash_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/activity_user_faq.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/cart_body_layout.xml" value="0.2" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/comments_layout.xml" value="0.4" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/content_faq.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/content_payment_detials.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/course_curicuram_datalayout.xml" value="0.4" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/course_layout.xml" value="0.2" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/fragment_google_facebook_signup.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/fragment_home.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/fragment_my_cart.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/fragment_my_courses.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/fragment_signup.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/github_login_box.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/main_dashed_board_shimmer.xml" value="0.152" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/multipal_courses.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/myongoing_courses.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/new_phone_number_layout.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/notification.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/notification_layout.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/pasword_reset_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/payment_detials_layout.xml" value="0.264" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/popular_courses.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/win11/StudioProjects/PaceClasses/app/src/main/res/layout/popular_search_layout.xml" value="0.6" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

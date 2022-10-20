@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/maindashedboard_navigation"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.kripton.paceclasses.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/myCourses"
+        android:name="com.kripton.paceclasses.MyCourses"
+        android:label="fragment_my_courses"
+        tools:layout="@layout/fragment_my_courses" />
+    <fragment
+        android:id="@+id/myCart"
+        android:name="com.kripton.paceclasses.MyCart"
+        android:label="fragment_my_cart"
+        tools:layout="@layout/fragment_my_cart" />
+</navigation>

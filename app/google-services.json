@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "977537279231",
+    "firebase_url": "https://pace-classes-default-rtdb.firebaseio.com",
+    "project_id": "pace-classes",
+    "storage_bucket": "pace-classes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977537279231:android:7fd4e66015cf41527e98ca",
+        "android_client_info": {
+          "package_name": "com.kripton.paceclasses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977537279231-ii8f0dc72l7p71tpqse7trtf5hpe63lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiVdYiGk0dkhxz9pL0VVq5XpqnQ18wgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977537279231-7hgorultet9o1ls8b8g60v3v6ioobov0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

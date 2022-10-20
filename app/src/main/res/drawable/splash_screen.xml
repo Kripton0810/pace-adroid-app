@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/ic_main_logo_splash" android:height="250dp" android:width="200dp" android:gravity="center"/>
+</layer-list>

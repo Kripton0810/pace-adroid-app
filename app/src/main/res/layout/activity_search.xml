@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E5E5E5"
+    tools:context=".Search">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:background="@drawable/rounded_border_less"
+        android:paddingTop="6dp"
+        android:gravity="center_vertical"
+        android:paddingBottom="6dp"
+        android:paddingRight="8dp"
+        android:paddingLeft="8dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/textView"
+            android:drawableStart="@drawable/ic_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:inputType="text"
+            android:textColor="@color/black"
+            android:hint="Search for anything"
+            android:fontFamily="@font/dmsans_mid"
+            android:backgroundTint="@android:color/transparent"
+            />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:padding="6dp"
+            app:srcCompat="@drawable/ic_voice" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Popular Search"
+            android:fontFamily="@font/redhat_bold"
+            android:textFontWeight="900"
+            android:textColor="#1D2D3A"
+            android:textSize="18sp"
+            android:padding="6dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginLeft="12dp"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:paddingRight="12dp"
+            android:paddingLeft="12dp"
+            android:paddingBottom="12dp"
+            android:id="@+id/popular_tags_rv"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/popular_search_layout"
+            />
+
+    </LinearLayout>
+</LinearLayout>

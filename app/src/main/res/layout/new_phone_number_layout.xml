@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/border_for_big_box"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        app:boxStrokeColor="@color/purple_500"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        app:boxStrokeWidth="3dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="16dp"
+        app:boxCornerRadiusTopEnd="10dp"
+        app:boxCornerRadiusTopStart="10dp"
+        app:prefixText="+91- "
+        app:prefixTextColor="@color/black"
+        app:hintTextColor="@color/purple_500"
+        android:layout_marginRight="16dp"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phone_replace"
+            android:textColorHint="@color/purple_500"
+            android:fontFamily="@font/dmsans_mid"
+            android:textSize="18sp"
+            android:inputType="phone"
+            android:hint="Phone number" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginBottom="24dp"
+        android:layout_height="wrap_content"
+        android:text="change phone"
+        android:padding="12dp"
+        android:fontFamily="@font/dmsans_mid"
+        android:textSize="16sp"
+        />
+
+    <ProgressBar
+        android:id="@+id/pbar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_marginTop="32dp"
+        android:visibility="gone"
+        android:layout_marginRight="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginBottom="24dp"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
